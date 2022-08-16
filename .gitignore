@@ -1,0 +1,9 @@
+node_modules
+instantclient
+build
+public
+.idea
+env
+combined.log
+error.log
+

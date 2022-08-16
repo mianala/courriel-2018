@@ -1,0 +1,395 @@
+	{"level":"error","message":"user wrong credentials: oliva 4450 ","timestamp":"2019-10-18T12:27:07.985Z"}
+{"level":"error","message":"user wrong credentials: oliva 4450 ","timestamp":"2019-10-18T12:27:13.177Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-10-18T12:27:32.214Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-10-18T12:40:48.067Z"}
+{"level":"info","message":"saved: project-1 \"TITLE\" by user-1067","timestamp":"2019-10-18T12:40:57.588Z"}
+{"level":"info","message":"dispatched: project-1 to 237 by entity-50 user-1067","timestamp":"2019-10-18T12:41:08.064Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-10-18T13:51:32.984Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-10-18T14:34:49.665Z"}
+{"level":"error","message":"user wrong credentials: oliva 5540 ","timestamp":"2019-10-18T14:43:43.804Z"}
+{"level":"error","message":"user wrong credentials: oliva 5540 ","timestamp":"2019-10-18T14:43:44.783Z"}
+{"level":"error","message":"user wrong credentials: oliva 5540 ","timestamp":"2019-10-18T14:43:45.239Z"}
+{"level":"error","message":"user wrong credentials: oliva 5540 ","timestamp":"2019-10-18T14:43:45.758Z"}
+{"level":"error","message":"user wrong credentials: oliva 5540 ","timestamp":"2019-10-18T14:44:03.834Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-10-18T14:46:12.210Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-10-21T10:56:19.843Z"}
+{"level":"info","message":"status update: project-10253 by entity-50","timestamp":"2019-10-21T10:58:38.448Z"}
+{"level":"info","message":"dispatched: project-10253 to 82 by entity-50 user-1067","timestamp":"2019-10-21T12:16:41.391Z"}
+{"level":"info","message":"dispatched: project-10253 to 80 by entity-50 user-1067","timestamp":"2019-10-21T12:18:18.119Z"}
+{"level":"info","message":"dispatched: project-10253 to 237 by entity-50 user-1067","timestamp":"2019-10-21T12:19:08.367Z"}
+{"level":"info","message":"dispatched: project-10253 to 80 by entity-50 user-1067","timestamp":"2019-10-21T12:22:40.633Z"}
+{"level":"info","message":"dispatched: project-10253 to 84 by entity-50 user-1067","timestamp":"2019-10-21T12:24:17.586Z"}
+{"level":"info","message":"dispatched: project-10253 to 81 by entity-50 user-1067","timestamp":"2019-10-21T12:24:43.534Z"}
+{"level":"info","message":"dispatched: project-10253 to 238 by entity-50 user-1067","timestamp":"2019-10-21T12:25:33.762Z"}
+{"level":"info","message":"dispatched: project-10253 to 51 by entity-50 user-1067","timestamp":"2019-10-21T12:25:52.183Z"}
+{"level":"info","message":"dispatched: project-10253 to 54 by entity-50 user-1067","timestamp":"2019-10-21T12:26:11.791Z"}
+{"level":"info","message":"dispatched: project-10253 to  by entity-50 user-1067","timestamp":"2019-10-21T12:28:20.840Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-10-21T13:32:55.244Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-10-21T13:36:05.407Z"}
+{"level":"info","message":"saved: project-14823 \"asddf\" by user-1067","timestamp":"2019-10-21T13:54:42.158Z"}
+{"level":"info","message":"dispatched: project-14823 to 51 by entity-50 user-1067","timestamp":"2019-10-21T13:54:56.259Z"}
+{"level":"info","message":"saved: project-14824 \"sdf\" by user-1067","timestamp":"2019-10-21T14:12:57.507Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-10-21T14:45:54.228Z"}
+{"level":"info","message":"removed project id: 14824","timestamp":"2019-10-21T15:02:34.403Z"}
+{"level":"info","message":"status update: project-10253 by entity-50","timestamp":"2019-10-21T15:04:05.520Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-10-21T16:31:11.636Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-10-21T16:31:11.642Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-10-24T12:16:45.965Z"}
+{"level":"info","message":"saved: project-14842 \"TEST \" by user-1106","timestamp":"2019-10-24T16:10:31.459Z"}
+{"level":"info","message":"status update: project-14842 by entity-266","timestamp":"2019-10-24T16:14:22.001Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-10-25T10:43:32.227Z"}
+{"level":"error","message":"user wrong credentials: secretariat.mef 4595 ","timestamp":"2019-10-25T11:02:16.164Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-10-25T11:02:20.583Z"}
+{"level":"error","message":"user wrong credentials: Tsiry 5454 ","timestamp":"2019-10-25T14:29:14.034Z"}
+{"level":"error","message":"user wrong credentials: Tsiry 5454 ","timestamp":"2019-10-25T14:29:19.171Z"}
+{"level":"info","message":"user logged in: RABEMANANTSOA LALANANDRIANINA Tsiry Ny Onja undefined 1094","timestamp":"2019-10-25T14:29:23.015Z"}
+{"level":"info","message":"saved: project-14843 \"y:;-;_\" by user-1094","timestamp":"2019-10-25T14:35:59.225Z"}
+{"level":"info","message":"status update: project-14843 by entity-50","timestamp":"2019-10-25T14:36:16.217Z"}
+{"level":"info","message":"user logged in: RABEMANANTSOA LALANANDRIANINA Tsiry Ny Onja undefined 1094","timestamp":"2019-10-25T14:44:01.939Z"}
+{"level":"info","message":"status update: project-14842 by entity-266","timestamp":"2019-10-28T11:02:21.072Z"}
+{"level":"info","message":"status update: project-14842 by entity-266","timestamp":"2019-10-28T11:03:16.126Z"}
+{"level":"info","message":"removed project id: 14842","timestamp":"2019-10-28T11:03:59.631Z"}
+{"level":"info","message":"removed project id: 14842","timestamp":"2019-10-28T11:04:19.858Z"}
+{"level":"info","message":"removed project id: 14842","timestamp":"2019-10-28T11:10:52.244Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-10-28T11:21:01.389Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-10-28T11:21:51.520Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-10-28T11:22:40.023Z"}
+{"level":"info","message":"saved: project-14862 \"Décret fixant les conditions et modalités d'émission des Bons du Trésor Spéciaux destinés au remboursement des arriérés de la JIRAMA envers la Société JOVENA \" by user-1106","timestamp":"2019-10-28T13:28:45.512Z"}
+{"level":"info","message":"edited: project-14862 by user-1106","timestamp":"2019-10-28T13:30:10.439Z"}
+{"level":"info","message":"status update: project-14862 by entity-266","timestamp":"2019-10-28T13:31:02.718Z"}
+{"level":"info","message":"edited: project-14862 by user-1106","timestamp":"2019-10-28T14:03:04.194Z"}
+{"level":"info","message":"dispatched: project-14862 to 265 by entity-266 user-1106","timestamp":"2019-10-28T14:04:20.529Z"}
+{"level":"info","message":"status update: project-14862 by entity-266","timestamp":"2019-10-28T14:05:36.242Z"}
+{"level":"info","message":"user logged in: RAJAONAH Hajatiana undefined 1072","timestamp":"2019-10-30T11:35:44.589Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-10-30T11:36:16.918Z"}
+{"level":"info","message":"user logged in: Rina Andrianina undefined 2","timestamp":"2019-10-31T11:10:07.290Z"}
+{"level":"error","message":"user wrong credentials: secretatiat.mef 4585 ","timestamp":"2019-11-04T08:39:40.006Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-11-04T08:39:47.889Z"}
+{"level":"info","message":"removed project id: 14862","timestamp":"2019-11-04T08:40:20.144Z"}
+{"level":"info","message":"user logged in: Rina Andrianina undefined 2","timestamp":"2019-11-10T11:45:11.444Z"}
+{"level":"info","message":"user logged in: Rina Andrianina undefined 2","timestamp":"2019-11-10T11:45:31.605Z"}
+{"level":"info","message":"saved: project-14882 \"confirmation d'utilisation \" by user-1106","timestamp":"2019-11-12T05:22:18.948Z"}
+{"level":"info","message":"status update: project-14882 by entity-266","timestamp":"2019-11-12T05:23:26.240Z"}
+{"level":"info","message":"status update: project-14882 by entity-266","timestamp":"2019-11-12T05:24:19.347Z"}
+{"level":"info","message":"status update: project-14882 by entity-266","timestamp":"2019-11-12T05:24:52.799Z"}
+{"level":"info","message":"removed project id: 14882","timestamp":"2019-11-12T05:25:54.241Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-11-12T14:15:11.385Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-11-12T14:15:11.392Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-11-12T14:15:11.405Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-11-12T14:21:26.088Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-11-12T14:22:43.112Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-11-12T14:22:49.141Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-11-12T14:25:35.709Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-11-13T05:32:19.944Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-11-13T06:05:37.582Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-11-13T06:24:55.060Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-11-20T09:39:03.033Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-11-20T09:39:03.037Z"}
+{"level":"info","message":"dispatched: project-14910 to 236 by entity-50 user-1067","timestamp":"2019-11-20T09:39:42.544Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-11-20T09:40:07.567Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-11-20T09:40:13.155Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-11-20T09:40:26.148Z"}
+{"level":"info","message":"user logged in: RANDIMBISOA Oliva Emmanuëlla undefined 1067","timestamp":"2019-11-20T09:53:57.759Z"}
+{"level":"info","message":"saved: project-40000 \"Objet\" by user-1067","timestamp":"2019-11-20T10:22:02.544Z"}
+{"level":"info","message":"saved: project-40001 \"Objet 2\" by user-1067","timestamp":"2019-11-20T10:22:46.413Z"}
+{"level":"info","message":"saved: project-40002 \"Lecture\" by user-1067","timestamp":"2019-11-20T10:24:00.881Z"}
+{"level":"info","message":"added suivi: suivi-40002 \"undefined\" by user-1067","timestamp":"2019-11-20T10:24:25.068Z"}
+{"level":"info","message":"status update: project-40002 by entity-50","timestamp":"2019-11-20T10:24:53.967Z"}
+{"level":"info","message":"saved: project-40003 \"Objet signature\" by user-1067","timestamp":"2019-11-20T10:27:34.130Z"}
+{"level":"info","message":"added suivi: suivi-40003 \"undefined\" by user-1067","timestamp":"2019-11-20T10:29:28.067Z"}
+{"level":"info","message":"added suivi: suivi-40004 \"undefined\" by user-1067","timestamp":"2019-11-20T10:30:32.995Z"}
+{"level":"info","message":"removed project id: 14910","timestamp":"2019-11-20T10:51:25.081Z"}
+{"level":"info","message":"removed project id: 14909","timestamp":"2019-11-20T10:51:30.368Z"}
+{"level":"info","message":"dispatched: project-14905 to 265 by entity-50 user-1067","timestamp":"2019-11-20T10:54:41.502Z"}
+{"level":"info","message":"saved: project-40020 \"Avancement d'échelon de rabearinoro\" by user-1106","timestamp":"2019-11-21T05:06:44.253Z"}
+{"level":"info","message":"dispatched: project-40020 to  by entity-266 user-1106","timestamp":"2019-11-21T05:09:43.482Z"}
+{"level":"info","message":"removed project id: 40020","timestamp":"2019-11-21T05:13:56.950Z"}
+{"level":"info","message":"removed project id: 40020","timestamp":"2019-11-21T05:14:01.703Z"}
+{"level":"info","message":"removed project id: 40020","timestamp":"2019-11-21T05:14:06.002Z"}
+{"level":"info","message":"removed project id: 40020","timestamp":"2019-11-21T05:14:14.827Z"}
+{"level":"info","message":"saved: project-40021 \"Avancement de solofonirina\" by user-1106","timestamp":"2019-11-21T05:16:23.960Z"}
+{"level":"info","message":"saved: project-40022 \"reclassement de rabe\" by user-1106","timestamp":"2019-11-21T05:16:49.033Z"}
+{"level":"info","message":"status update: project-40021 by entity-266","timestamp":"2019-11-21T05:18:31.173Z"}
+{"level":"info","message":"added suivi: suivi-40021 \"undefined\" by user-1106","timestamp":"2019-11-21T05:19:09.478Z"}
+{"level":"info","message":"dispatched: project-40021 to  by entity-266 user-1106","timestamp":"2019-11-21T05:21:08.092Z"}
+{"level":"info","message":"saved: project-40023 \"REMER\" by user-1106","timestamp":"2019-11-21T05:32:11.675Z"}
+{"level":"info","message":"dispatched: project-40023 to  by entity-266 user-1106","timestamp":"2019-11-21T05:35:02.698Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-11-21T05:38:04.657Z"}
+{"level":"info","message":"saved: project-40024 \"Objet\" by user-1106","timestamp":"2019-11-21T05:38:38.160Z"}
+{"level":"info","message":"saved: project-40026 \"Objet\" by user-1106","timestamp":"2019-11-21T06:26:38.924Z"}
+{"level":"info","message":"saved: project-40027 \"PRMP\" by user-1106","timestamp":"2019-11-21T06:27:53.897Z"}
+{"level":"info","message":"saved: project-40028 \"Objet\" by user-1106","timestamp":"2019-11-21T06:34:39.663Z"}
+{"level":"info","message":"saved: project-40029 \"Objet\" by user-1106","timestamp":"2019-11-21T06:35:26.962Z"}
+{"level":"info","message":"removed project id: 40029","timestamp":"2019-11-21T06:36:08.712Z"}
+{"level":"info","message":"removed project id: 40028","timestamp":"2019-11-21T06:36:12.484Z"}
+{"level":"info","message":"removed project id: 40027","timestamp":"2019-11-21T06:36:20.989Z"}
+{"level":"info","message":"removed project id: 40026","timestamp":"2019-11-21T06:36:24.774Z"}
+{"level":"info","message":"removed project id: 40025","timestamp":"2019-11-21T06:36:30.084Z"}
+{"level":"info","message":"edited: project-40029 by user-1106","timestamp":"2019-11-21T06:37:25.383Z"}
+{"level":"info","message":"edited: project-40029 by user-1106","timestamp":"2019-11-21T06:37:41.078Z"}
+{"level":"info","message":"saved: project-40040 \"PV de réunion du Comité Stratégique de Pilotage de la Stratégie Nationale de Lutte contre la Corruption du 04 Nov\" by user-1106","timestamp":"2019-11-26T05:44:38.163Z"}
+{"level":"info","message":"removed project id: 40040","timestamp":"2019-11-26T05:52:27.231Z"}
+{"level":"info","message":"removed project id: 40040","timestamp":"2019-11-26T05:52:34.123Z"}
+{"level":"info","message":"saved: project-40041 \"demande de prise en charge\" by user-1106","timestamp":"2019-11-26T05:55:19.160Z"}
+{"level":"info","message":"edited: project-40041 by user-1106","timestamp":"2019-11-26T05:56:17.337Z"}
+{"level":"info","message":"status update: project-40041 by entity-266","timestamp":"2019-11-26T05:56:40.718Z"}
+{"level":"info","message":"removed project id: 40041","timestamp":"2019-11-26T05:59:00.269Z"}
+{"level":"info","message":"saved: project-40042 \"23\" by user-1106","timestamp":"2019-11-26T06:10:32.906Z"}
+{"level":"info","message":"removed project id: 40042","timestamp":"2019-11-26T06:10:41.119Z"}
+{"level":"info","message":"removed project id: 40042","timestamp":"2019-11-26T06:10:55.688Z"}
+{"level":"info","message":"removed project id: 40042","timestamp":"2019-11-26T06:16:22.220Z"}
+{"level":"info","message":"removed project id: 40042","timestamp":"2019-11-26T06:39:34.511Z"}
+{"level":"info","message":"saved: project-40043 \"6ème session du Forum régional africain pour le développement durable , du 24 au 27 février 2020 à Victoria Falls, Zimbabwe\" by user-1106","timestamp":"2019-11-26T06:47:44.972Z"}
+{"level":"info","message":"removed project id: 40042","timestamp":"2019-11-26T06:55:31.751Z"}
+{"level":"info","message":"dispatched: project-40043 to  by entity-266 user-1106","timestamp":"2019-11-26T06:56:41.253Z"}
+{"level":"info","message":"saved: project-40044 \"Portant répartition du produit des ventes aux enchères publiques des marchandises en dépôt au magasin sous douane du Bureau des douanes d'Antanimena \" by user-1106","timestamp":"2019-11-26T07:03:38.450Z"}
+{"level":"info","message":"saved: project-40045 \"L/SGG/ Utilisation des crédits inscrits au sous compte 23172 du ST-PADR auprès de la Primature \" by user-1106","timestamp":"2019-11-26T07:15:57.447Z"}
+{"level":"info","message":"saved: project-40046 \"\" by user-1106","timestamp":"2019-11-26T07:16:28.338Z"}
+{"level":"info","message":"removed project id: 40046","timestamp":"2019-11-26T07:18:07.548Z"}
+{"level":"info","message":"removed project id: 40046","timestamp":"2019-11-26T07:19:19.244Z"}
+{"level":"info","message":"dispatched: project-40045 to 265 by entity-266 user-1106","timestamp":"2019-11-26T07:19:20.346Z"}
+{"level":"info","message":"saved: project-40047 \"Demande de levée du blocage de la ligne budgétaire 6551 - Transfert pour charges des services publics EPA\" by user-1106","timestamp":"2019-11-26T09:27:46.000Z"}
+{"level":"info","message":"saved: project-40048 \"Projet d'aménagement de voie rapide reliant Andavamamba, Andranonahahoatra Itaosy, la RN1 et la nouvelle ville de Tanamasoandro\" by user-1106","timestamp":"2019-11-26T09:53:56.150Z"}
+{"level":"info","message":"saved: project-40049 \"Facture: paiement de la contribution additionnelle de Madagascar au capital de l'agence pour l'assurance du commerce en Afrique\" by user-1106","timestamp":"2019-11-26T09:55:08.801Z"}
+{"level":"info","message":"saved: project-40050 \"Autorisation de dédouanement de feuilles de tabacs pour la SACIMEM\" by user-1106","timestamp":"2019-11-26T09:56:14.585Z"}
+{"level":"info","message":"saved: project-40051 \"Nomination de MM. Aivo H. Andrianarivelo et Milijaona RADO en qualité de membres de la Commission de Supervision Bancaire et Financière (CSBF)\" by user-1106","timestamp":"2019-11-26T10:07:44.757Z"}
+{"level":"info","message":"saved: project-40052 \"Taux de change USD novembre 2019 pour application décembre 2019: paiement des factures d'importations pétrolières\" by user-1106","timestamp":"2019-11-26T10:08:58.310Z"}
+{"level":"info","message":"saved: project-40053 \"Note explicative sur le manque à gagner économique de la Région par rapport au blocage de l'exportation des bois de fer\" by user-1106","timestamp":"2019-11-26T10:10:01.767Z"}
+{"level":"info","message":"saved: project-40054 \"L/DGCF: Demande de transfert de compétence de vérification et d'avis préalable sur le dossier de marché public\" by user-1106","timestamp":"2019-11-26T10:14:01.590Z"}
+{"level":"info","message":"saved: project-40055 \"Invitation à la Revue Stratégique pour la Préparation du Nouveau Programme de Coopération de l'UNICEF - 28 novembre 2019\" by user-1106","timestamp":"2019-11-26T10:17:41.634Z"}
+{"level":"info","message":"saved: project-40056 \"7ème activité du projet portant \"Elaboration de la politique nationale d'engagement de la diaspora: Session de Finalisation et de Présentation de la Politique Nationale d'Engagement de la Diaspora, du 02 au 06 décembre 2019 à A/vo\" by user-1106","timestamp":"2019-11-26T10:19:44.597Z"}
+{"level":"info","message":"saved: project-40057 \"6ème session du Forum régional africain pour le développement durable du 24 au 27 février 2020 à Victoria Falls, Zimbabwe\" by user-1106","timestamp":"2019-11-26T10:23:12.112Z"}
+{"level":"info","message":"saved: project-40058 \"COMESA: Nomination d'un expert national pour intégrer le Groupe de Travail Technique (GTT) sur les statistiques du commerce international des services et des investissements directs à l'étranger (IDE)\" by user-1106","timestamp":"2019-11-26T10:25:26.834Z"}
+{"level":"info","message":"saved: project-40059 \"Documents issus de la Commission Mixte Madagascar - Comores (PV, Accord Général de Coopération et Accord portant création d'une Commission Mixte)\" by user-1106","timestamp":"2019-11-26T10:27:25.261Z"}
+{"level":"info","message":"saved: project-40060 \"Projet d'arrêté interministériel d'application du décret sur l'Accès et le Partage des Avantages découlant de l'utilisation des Ressources Génétiques et des Connaissances Traditionnelles associées\" by user-1106","timestamp":"2019-11-26T10:29:13.913Z"}
+{"level":"info","message":"saved: project-40061 \"CR sur le dossier relatif au Centre Malgache de la Canne et du Sucre (CMCS): condamnation de l'ordonnateur à une amende\" by user-1106","timestamp":"2019-11-26T10:41:56.859Z"}
+{"level":"info","message":"removed project id: 40061","timestamp":"2019-11-26T11:25:03.950Z"}
+{"level":"info","message":"status update: project-40061 by entity-266","timestamp":"2019-11-26T11:25:12.232Z"}
+{"level":"info","message":"status update: project-40061 by entity-266","timestamp":"2019-11-26T11:25:15.577Z"}
+{"level":"info","message":"edited: project-40060 by user-1106","timestamp":"2019-11-26T11:28:57.016Z"}
+{"level":"info","message":"saved: project-40062 \"Demande de nomination d'un cadre de haut niveau pour présenter les grandes lignes des priorités nationales pour le développement le 28 Novembre 2019 au MAE\" by user-1106","timestamp":"2019-11-26T11:36:18.185Z"}
+{"level":"info","message":"edited: project-40062 by user-1106","timestamp":"2019-11-26T11:37:01.527Z"}
+{"level":"info","message":"dispatched: project-40062 to 267 by entity-266 user-1106","timestamp":"2019-11-26T11:37:52.012Z"}
+{"level":"info","message":"saved: project-40063 \"Dérogation pour création d'une Caisse d'avance unique et exceptionnelle sur déplacements intérieurs\" by user-1106","timestamp":"2019-11-26T12:42:03.038Z"}
+{"level":"info","message":"dispatched: project-40063 to 267 by entity-266 user-1106","timestamp":"2019-11-26T12:42:21.468Z"}
+{"level":"info","message":"saved: project-40064 \"Copie de la lettre de notification de décision adressée au PDG de QIT Mcar Minerals S.A\nCopie de la lettre de projet de recapitalisation de QIT Madagascar Minerals S.A\" by user-1106","timestamp":"2019-11-26T12:56:40.267Z"}
+{"level":"info","message":"edited: project-40064 by user-1106","timestamp":"2019-11-26T12:56:57.988Z"}
+{"level":"info","message":"edited: project-40064 by user-1106","timestamp":"2019-11-28T05:07:07.520Z"}
+{"level":"info","message":"edited: project-40063 by user-1106","timestamp":"2019-11-28T05:07:32.611Z"}
+{"level":"info","message":"edited: project-40062 by user-1106","timestamp":"2019-11-28T05:07:52.701Z"}
+{"level":"info","message":"edited: project-40060 by user-1106","timestamp":"2019-11-28T05:08:16.475Z"}
+{"level":"info","message":"edited: project-40059 by user-1106","timestamp":"2019-11-28T05:08:49.575Z"}
+{"level":"info","message":"edited: project-40060 by user-1106","timestamp":"2019-11-28T05:09:01.970Z"}
+{"level":"info","message":"edited: project-40049 by user-1106","timestamp":"2019-11-28T05:13:16.418Z"}
+{"level":"info","message":"edited: project-40050 by user-1106","timestamp":"2019-11-28T05:13:41.779Z"}
+{"level":"info","message":"edited: project-40051 by user-1106","timestamp":"2019-11-28T05:15:58.908Z"}
+{"level":"info","message":"edited: project-40052 by user-1106","timestamp":"2019-11-28T05:17:49.883Z"}
+{"level":"info","message":"edited: project-40053 by user-1106","timestamp":"2019-11-28T05:18:10.426Z"}
+{"level":"info","message":"edited: project-40054 by user-1106","timestamp":"2019-11-28T05:18:32.163Z"}
+{"level":"info","message":"edited: project-40055 by user-1106","timestamp":"2019-11-28T05:18:54.139Z"}
+{"level":"info","message":"edited: project-40056 by user-1106","timestamp":"2019-11-28T05:19:12.901Z"}
+{"level":"info","message":"edited: project-40057 by user-1106","timestamp":"2019-11-28T05:19:35.254Z"}
+{"level":"info","message":"edited: project-40058 by user-1106","timestamp":"2019-11-28T05:19:56.747Z"}
+{"level":"info","message":"saved: project-40080 \"Compte-rendu sur le dossier relatif au Centre Malgache de la Canne et du Sucre: condamnation de l'ordonnateur à une amende de 2.400.000 Ar\" by user-1106","timestamp":"2019-11-28T05:41:27.753Z"}
+{"level":"info","message":"saved: project-40081 \"L/ Ambassadeur Chine / Accord de prêt CHINA EXIMBANK GCL N° (2018) 7 TOTAL N° (649) en date du 03/09/2018 - Projet d'extension et d'aménagement de la voie rapide entre le Port de Toamasina et la RN2\" by user-1106","timestamp":"2019-11-28T05:58:13.860Z"}
+{"level":"info","message":"saved: project-40082 \"L/ Ministre de la Justice / Demande de dérogation pour le report des dates de modification de crédits et d'engagement financier\" by user-1106","timestamp":"2019-11-28T06:04:27.937Z"}
+{"level":"info","message":"saved: project-40083 \"L/ Directeur AFD/ CMG 2654- Opération d'appui budgétaire en gestion des risques de catastrophes avec option de tirage différé (CAT DDO)\" by user-1106","timestamp":"2019-11-28T06:10:52.204Z"}
+{"level":"info","message":"saved: project-40084 \"L/Ministre de la Sécurité Publique / Contrat pour la confection de passeport ordinaire avec la société SEMLEX\" by user-1106","timestamp":"2019-11-28T06:19:23.334Z"}
+{"level":"info","message":"saved: project-40085 \"Paiement des DTI d'un montant de Ar 223 332 754 au profit de la Présidence de la République (importation des divers matériels)\" by user-1106","timestamp":"2019-11-28T06:28:15.507Z"}
+{"level":"info","message":"saved: project-40086 \"L/ MTTM/ Demande de réquisition de paiement du MTTM \" by user-1106","timestamp":"2019-11-28T06:35:24.072Z"}
+{"level":"info","message":"saved: project-40087 \"L/ DB Banque Arabe pour le Développement Economique en Afrique / Etude de faisabilité du schéma directeur du transport de la villa d'Antananarivo- Demande de prorogation de la date limite de décaissement du Don de la BADEA \" by user-1106","timestamp":"2019-11-28T06:43:16.124Z"}
+{"level":"info","message":"saved: project-40088 \"Demande de remboursement de contribution des candidats aux frais d'impression des bulletins des communales de 2015 an/ RAVELOSON Brillant\" by user-1106","timestamp":"2019-11-28T07:21:20.319Z"}
+{"level":"info","message":"saved: project-40089 \"Demande de remboursement de contribution des candidats aux frais d’impression des bulletins des communales de 2015 an/ ALBERT Victor\" by user-1106","timestamp":"2019-11-28T07:23:41.009Z"}
+{"level":"info","message":"saved: project-40090 \"Demande de remboursement de contribution des candidats aux frais d'impression des bulletins des communales de 2015 an/ VELO Jalengo Beatrice\" by user-1106","timestamp":"2019-11-28T07:25:20.082Z"}
+{"level":"info","message":"saved: project-40091 \"Demande de remboursement des frais d'impression de bulletins aux communales de 2015 an/VELONDERA\" by user-1106","timestamp":"2019-11-28T07:27:39.376Z"}
+{"level":"info","message":"edited: project-40091 by user-1106","timestamp":"2019-11-28T07:33:54.469Z"}
+{"level":"info","message":"saved: project-40092 \"Remboursement des frais d'impression des bulletins des communales de 2015 an/ GAETAN\" by user-1106","timestamp":"2019-11-28T07:45:01.730Z"}
+{"level":"info","message":"saved: project-40093 \"Demande de remboursement des frais d'impression des communales de 2015 an/ AZARA Ralph Luciano\" by user-1106","timestamp":"2019-11-28T07:46:38.254Z"}
+{"level":"info","message":"edited: project-40093 by user-1106","timestamp":"2019-11-28T07:46:59.438Z"}
+{"level":"info","message":"saved: project-40094 \"Demande de remboursement des frais d'impression des bulletins des communales de 2015 an/\nBERA Jacquot\nRAZAFINDRAFARA Albert\nANDRIAMAHEFA Aurice\nRALITERA RAMILISON\nZAFINDRAZANA\" by user-1106","timestamp":"2019-11-28T07:48:46.956Z"}
+{"level":"info","message":"edited: project-40094 by user-1106","timestamp":"2019-11-28T07:49:01.472Z"}
+{"level":"info","message":"saved: project-40095 \"Demandes de remboursement des frais d'impression des bulletins des communales de 2015 an/\nVALERIEN\nZESTRAND\nRASOAMANANA Robain\nANDRIAMIZARASOA\nMILIARISON Bien Aimé\" by user-1106","timestamp":"2019-11-28T07:51:51.251Z"}
+{"level":"info","message":"edited: project-40095 by user-1106","timestamp":"2019-11-28T07:52:01.317Z"}
+{"level":"info","message":"saved: project-40096 \"Demande de liste des véhicules mis à la disposition de la PRM\" by user-1106","timestamp":"2019-11-28T07:56:33.550Z"}
+{"level":"info","message":"saved: project-40097 \"Affaire RAJAONARISON Lantonirina, E/se EFFORT Sarl c/Etat Msy: suspension de l'agrément de commissionnaire en douane\" by user-1106","timestamp":"2019-11-28T07:58:57.682Z"}
+{"level":"info","message":"saved: project-40098 \"Demande de liste des agents de l'Etat non encore bancarisés\" by user-1106","timestamp":"2019-11-28T08:01:02.775Z"}
+{"level":"info","message":"saved: project-40099 \"Interventions de BFM sur le MID en date du 25 novembre\" by user-1106","timestamp":"2019-11-28T08:03:31.587Z"}
+{"level":"info","message":"saved: project-40100 \"Interventions de BFM sur le MID en date du 21 novembre\nInterventions de BFM sur le MID en date du 22 novembre\nSituation des prélèvements effectués sur les réserves de change de la BFM du 01 janvier au 15 novembre\" by user-1106","timestamp":"2019-11-28T08:16:13.346Z"}
+{"level":"info","message":"saved: project-40101 \"Affaire AD2M - II (Projet d'Appui au Dvpt du Menabe et du Melaky - phase 2): placement sous MD de Mr Jules TEREZY\" by user-1106","timestamp":"2019-11-28T08:19:13.203Z"}
+{"level":"info","message":"saved: project-40102 \"Demande de dérogation spéciale pour l'ouverture de la comptabilité 2018: retard de régularisation des caisses d'avances uniques et exceptionnelles des indemnités des Présidentielles 2018\" by user-1106","timestamp":"2019-11-28T08:24:49.435Z"}
+{"level":"info","message":"saved: project-40103 \"Contrat pour le passeport ordinaire avec la société SEMLEX: possibilité de révision des prix incluant les taxes et impôts\" by user-1106","timestamp":"2019-11-28T08:29:25.074Z"}
+{"level":"info","message":"saved: project-40104 \"Transmission de la lettre de la part de MIZA Françoise portant demande de pension\" by user-1106","timestamp":"2019-11-28T08:34:31.071Z"}
+{"level":"info","message":"edited: project-40104 by user-1106","timestamp":"2019-11-28T08:34:51.701Z"}
+{"level":"info","message":"saved: project-40105 \"Demande de renouvellement d'accord de siège de l'ONG \"Sustainable Environment, Education and Dvpt (SEED) Mcar\"\" by user-1106","timestamp":"2019-11-28T08:36:59.954Z"}
+{"level":"info","message":"saved: project-40106 \"Demande d'établissement d'Accord de siège de \"J'Irai A l'Ecole (JIAE)\"\" by user-1106","timestamp":"2019-11-28T08:41:28.674Z"}
+{"level":"info","message":"saved: project-40107 \"Demande d'établissement d'accord de siège de \"Well International\"\" by user-1106","timestamp":"2019-11-28T08:43:08.062Z"}
+{"level":"info","message":"saved: project-40108 \"Demande d'établissement d'accord de siège de l'organisation \"OPTI'POUSSE HAIE (OPH)\"\" by user-1106","timestamp":"2019-11-28T08:44:56.708Z"}
+{"level":"info","message":"saved: project-40109 \"DEF : Transfert de crédit au profit de l'Autorité de Régulation des Marchés Publics \" by user-1106","timestamp":"2019-11-28T08:45:48.537Z"}
+{"level":"info","message":"saved: project-40110 \"Demande de désignation de 2 représentants du MEF pour siéger au  CA du SNGF\" by user-1106","timestamp":"2019-11-28T08:47:34.444Z"}
+{"level":"info","message":"saved: project-40111 \"Information concernant la commercialisation du produit combiné Assurance Automobile avec Assistance\" by user-1106","timestamp":"2019-11-28T08:49:28.533Z"}
+{"level":"info","message":"saved: project-40112 \"Remboursement des fraix médicaux d'une somme de Ar 5 931 000 à Monsieur RAKOTOARIJAONA Désiré \" by user-1106","timestamp":"2019-11-28T08:52:56.547Z"}
+{"level":"info","message":"saved: project-40113 \"Demande de réutilisation de poste budgétaire\" by user-1106","timestamp":"2019-11-28T08:55:46.689Z"}
+{"level":"info","message":"saved: project-40114 \"Situation des dépenses relatives aux élections communales et municipales arrêté à la date du 22 novembre à 13H00\" by user-1106","timestamp":"2019-11-28T09:01:11.416Z"}
+{"level":"info","message":"saved: project-40115 \"Note Explicative : AIR MADAGASCAR- Projet de convention de compte courant conclue entre l'Etat Malagasy et la Compagnie AIR MADAGASCAR \" by user-1106","timestamp":"2019-11-28T09:06:54.552Z"}
+{"level":"info","message":"saved: project-40116 \"L/ DESTINATAIRE IN FINE / Approbation des projets de budget primitif 2020 des EPN \" by user-1106","timestamp":"2019-11-28T09:10:14.297Z"}
+{"level":"info","message":"saved: project-40117 \"L/ MICA/ Désignation des représentants du MEF au sein du CA du Conseil de la Concurrence \" by user-1106","timestamp":"2019-11-28T09:27:08.789Z"}
+{"level":"info","message":"saved: project-40118 \"Projet d'arrêté Interministériel portant mise en place d'un Guichet unique pour le recouvrement des droits de délivrance de passeport électronique auprès de la Direction des Renseignements et du Contrôle de l'Immigration et de l'Emigration du Ministère de la Sécurité Publique \" by user-1106","timestamp":"2019-11-28T09:34:39.191Z"}
+{"level":"info","message":"saved: project-40119 \"Note: Remplacement de Monsieur Henri RABARIJOHN , administrateur de l'Etat au sein du CA de la BNI Madagascar \" by user-1106","timestamp":"2019-11-28T09:38:54.459Z"}
+{"level":"info","message":"saved: project-40120 \"L/ Stephen KARANZI - Directeur de la Facilité Africaine de Soutien Juridique/ Complément de requête pour une assistance de la Facilité Africaine de soutien juridique à la République de Madagascar \" by user-1106","timestamp":"2019-11-28T09:42:26.579Z"}
+{"level":"info","message":"saved: project-40121 \"FT: demande de régularisation des dossiers d'importation de \" matériels programmes UNICEF\" \" by user-1106","timestamp":"2019-11-28T09:46:14.877Z"}
+{"level":"info","message":"saved: project-40122 \"1_Paiement des DTI d'un montant de Ar 85 298 635 au profit SAMFIN \n2_Paiement des DTI d'un montant de Ar 30 435 341 au profit de la Présidence de la République \n3_ Paiement des DTI d'un montant de ar 75 894 318 au profit de la présidence de la république \n\n\n\" by user-1106","timestamp":"2019-11-28T10:14:32.807Z"}
+{"level":"info","message":"edited: project-40085 by user-1106","timestamp":"2019-11-28T10:25:53.223Z"}
+{"level":"info","message":"edited: project-40085 by user-1106","timestamp":"2019-11-28T10:29:40.622Z"}
+{"level":"info","message":"saved: project-40123 \"Demande d'appui financier et/ou matériel pour le Conseil d'Etat et les Tribunaux A/tifs pour le traitement des opérations et des résultats aux élections communales du 27 novembre\" by user-1106","timestamp":"2019-11-28T10:38:30.032Z"}
+{"level":"info","message":"saved: project-40124 \"L/ MENETP/ Demande de dérogation pour le déblocage des subventions au profit des Groupements Régionaux des Etablissements de Formation Technique et Professionnelles (GREFTP)\" by user-1106","timestamp":"2019-11-28T10:42:41.521Z"}
+{"level":"info","message":"saved: project-40125 \"ARR : avancement de classe de RAZALISON Elmire \" by user-1106","timestamp":"2019-11-28T10:45:05.347Z"}
+{"level":"info","message":"saved: project-40126 \"NAS: Demande de dérogation aux Quitus matières des années 2018 et antérieures par le Ministère de la Sécurité Publique ( Par lettre n° 01920-MSP 2019 du 31 /10/2019)\" by user-1106","timestamp":"2019-11-28T10:49:14.771Z"}
+{"level":"info","message":"saved: project-40127 \"Nomination d'un Trésorier communal auprès de la Commune Rurale d'Antanimora Sud implantée dans le District d'Ambovobe Androy , Région Androy \" by user-1106","timestamp":"2019-11-28T10:52:32.106Z"}
+{"level":"info","message":"saved: project-40128 \"Paiements effectués en 2019 en faveur de la société VIVO ENERGY \" by user-1106","timestamp":"2019-11-28T10:55:28.214Z"}
+{"level":"info","message":"saved: project-40129 \"Note : Offre de financement de Trade and Development Bank TDB \" by user-1106","timestamp":"2019-11-28T11:03:25.717Z"}
+{"level":"info","message":"saved: project-40130 \"Réquisition de paiement de la fourniture de vivre pour la fête de nouvel an 2019 du Ministère de la Santé Publique \" by user-1106","timestamp":"2019-11-28T11:06:35.148Z"}
+{"level":"info","message":"saved: project-40131 \"L/ MAEP/ Projet de réhabilitation des infrastructures agricoles dans la région du Sud-Ouest (PRIASO) -Prêt FAD N) 21 00150029294-Prêt FSN n) 22 001 600 010 39- Fon FEM n° 5550155000352;\nDemande de prorogation de 8 mois de la date limité de décaissement - Demande d'utilisation du reliquat- demande d'annulation d'une partie des fonds alloués au projet \" by user-1106","timestamp":"2019-11-28T11:19:11.577Z"}
+{"level":"info","message":"saved: project-40132 \"Finanacement de la Bonque Mondiale à titre d'emprunt : PIC et Projet SOP-2 (PIC 2.2)\nProjet d'arrêté : nomination de son régisseurs\" by user-1106","timestamp":"2019-11-28T11:26:32.106Z"}
+{"level":"info","message":"saved: project-40133 \"L/ SEG/ Demande de remplacement des postes des agents non encadrés de l'Etat (ECD) \" by user-1106","timestamp":"2019-11-28T11:31:48.578Z"}
+{"level":"info","message":"user logged in: Cabinet du Ministre undefined 1105","timestamp":"2019-11-28T12:13:03.812Z"}
+{"level":"info","message":"saved: project-40134 \"Reclassement indiciaire au nom de RAHELIMANANA Saraha \nAvancement d'échelon au nom de RAMELISON Hary Vololona \" by user-1106","timestamp":"2019-11-28T12:27:01.840Z"}
+{"level":"info","message":"saved: project-40135 \"Avancement d'échelon aux noms de: RAKOTONDRASOLO Deranaina Andriampeno et consorts (17)\" by user-1106","timestamp":"2019-11-28T12:29:44.671Z"}
+{"level":"info","message":"saved: project-40136 \"L/ Ministre de l'Environnement et du Développement Durable / Réponse à votre demande d'exonération de TVA \" by user-1106","timestamp":"2019-11-28T12:32:56.120Z"}
+{"level":"info","message":"saved: project-40137 \"L/ MTEFPLS/ Demande de traduction devant le conseil de discipline de \nANDRIAMAHALEONIRINA RABENARY Joan \nRAKOTOINIANA Andriatsilavo Herivonjy Jean Patrick \nRAMAHATONDRATSARA Jean Claude \" by user-1106","timestamp":"2019-11-28T12:37:59.180Z"}
+{"level":"info","message":"saved: project-40138 \"Compte Rendu \nEtat d'avancement des projets SAHOFIKA et VOLOBE à fin Novembre 2019\" by user-1106","timestamp":"2019-11-28T12:44:33.341Z"}
+{"level":"info","message":"saved: project-40139 \"Compte rendu : \nAtelier de présentaton des grandes lignes de la réforme de la loi sur les investissements à Madagascar \" by user-1106","timestamp":"2019-11-28T12:50:12.158Z"}
+{"level":"info","message":"saved: project-40140 \"Mission d'appui au secteur de l'eau, PRODUIR (PROjet de Dvpt Urbain Intégré et de Résilience) du Gd Tana du 03 au 11 décembre\" by user-1106","timestamp":"2019-11-28T12:55:07.655Z"}
+{"level":"info","message":"saved: project-40141 \"Demande d'autorisation de paiement de facture arriérée: construction de l'hôpital Manara-penitra de Morondava de 681.695.001 Ar\" by user-1106","timestamp":"2019-11-28T12:56:49.795Z"}
+{"level":"info","message":"saved: project-40142 \"Avenant n°2 au contrat d'assistance technique relative au renforcement de l'organisation du système de l'Ordonnateur National ON et du renforcement de l'organisation du Bureau d'Appui à l'Ordonnateur National BAON \" by user-1106","timestamp":"2019-11-28T12:57:18.528Z"}
+{"level":"info","message":"saved: project-40143 \"Le journal des Marchés Publics\" by user-1106","timestamp":"2019-11-28T12:58:39.856Z"}
+{"level":"info","message":"saved: project-40144 \"Situation de production des bulletins uniques pour les élections communales du 27 novembre auprès de l'Imprimerie Nationale\" by user-1106","timestamp":"2019-11-28T13:00:05.963Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-11-28T13:05:53.347Z"}
+{"level":"info","message":"saved: project-40145 \"Demande de rapatriement au nom de ma famille\" by user-1106","timestamp":"2019-11-29T04:17:22.714Z"}
+{"level":"info","message":"dispatched: project-40145 to 265,267 by entity-266 user-1106","timestamp":"2019-11-29T04:35:24.846Z"}
+{"level":"info","message":"status update: project-40060 by entity-266","timestamp":"2019-11-29T05:21:23.370Z"}
+{"level":"info","message":"status update: project-40060 by entity-266","timestamp":"2019-11-29T05:21:32.427Z"}
+{"level":"info","message":"saved: project-40146 \"Contrat de marché de fourniture d'urgence de 1.000 m3 de fuel oil pour les groupes des centres de production en énergie thermique de la Sté Jirama pour Franco-Depot GRT Toamasina (2exemplaires)\" by user-1106","timestamp":"2019-11-29T05:42:18.831Z"}
+{"level":"info","message":"edited: project-40146 by user-1106","timestamp":"2019-11-29T05:42:43.203Z"}
+{"level":"info","message":"dispatched: project-40146 to  by entity-266 user-1106","timestamp":"2019-11-29T07:01:30.818Z"}
+{"level":"info","message":"dispatched: project-40088 to  by entity-266 user-1106","timestamp":"2019-11-29T07:08:46.041Z"}
+{"level":"info","message":"dispatched: project-40088 to  by entity-266 user-1106","timestamp":"2019-11-29T07:17:25.353Z"}
+{"level":"info","message":"dispatched: project-40089 to  by entity-266 user-1106","timestamp":"2019-11-29T07:26:25.516Z"}
+{"level":"info","message":"dispatched: project-40090 to  by entity-266 user-1106","timestamp":"2019-11-29T07:28:39.056Z"}
+{"level":"info","message":"dispatched: project-40091 to  by entity-266 user-1106","timestamp":"2019-11-29T07:29:30.513Z"}
+{"level":"info","message":"dispatched: project-40092 to  by entity-266 user-1106","timestamp":"2019-11-29T07:30:17.008Z"}
+{"level":"info","message":"saved: project-40147 \"Avancement d'échelon au nom de : RASOLONJATOVO Jacky \" by user-1106","timestamp":"2019-11-29T07:30:32.006Z"}
+{"level":"info","message":"dispatched: project-40093 to  by entity-266 user-1106","timestamp":"2019-11-29T07:30:54.759Z"}
+{"level":"info","message":"dispatched: project-40094 to  by entity-266 user-1106","timestamp":"2019-11-29T07:31:30.084Z"}
+{"level":"info","message":"dispatched: project-40095 to  by entity-266 user-1106","timestamp":"2019-11-29T07:32:15.636Z"}
+{"level":"info","message":"saved: project-40148 \"L/ Monsieur RAKOTOMALALA Pierre Olivier / Autorisation de transfert de fonds à l'étranger dans le cadre d'une constitution de caution \" by user-1106","timestamp":"2019-11-29T07:38:04.486Z"}
+{"level":"info","message":"dispatched: project-40096 to  by entity-266 user-1106","timestamp":"2019-11-29T07:39:45.411Z"}
+{"level":"info","message":"dispatched: project-40096 to  by entity-266 user-1106","timestamp":"2019-11-29T07:40:30.191Z"}
+{"level":"info","message":"dispatched: project-40097 to  by entity-266 user-1106","timestamp":"2019-11-29T07:41:15.672Z"}
+{"level":"info","message":"dispatched: project-40098 to  by entity-266 user-1106","timestamp":"2019-11-29T07:41:49.988Z"}
+{"level":"info","message":"dispatched: project-40099 to  by entity-266 user-1106","timestamp":"2019-11-29T07:43:15.481Z"}
+{"level":"info","message":"dispatched: project-40100 to  by entity-266 user-1106","timestamp":"2019-11-29T07:43:34.157Z"}
+{"level":"info","message":"dispatched: project-40101 to  by entity-266 user-1106","timestamp":"2019-11-29T07:44:13.985Z"}
+{"level":"info","message":"dispatched: project-40102 to  by entity-266 user-1106","timestamp":"2019-11-29T07:46:15.726Z"}
+{"level":"info","message":"dispatched: project-40103 to  by entity-266 user-1106","timestamp":"2019-11-29T07:46:50.152Z"}
+{"level":"info","message":"dispatched: project-40104 to  by entity-266 user-1106","timestamp":"2019-11-29T07:47:14.062Z"}
+{"level":"info","message":"dispatched: project-40105 to  by entity-266 user-1106","timestamp":"2019-11-29T07:47:36.562Z"}
+{"level":"info","message":"dispatched: project-40106 to  by entity-266 user-1106","timestamp":"2019-11-29T07:48:01.781Z"}
+{"level":"info","message":"dispatched: project-40107 to  by entity-266 user-1106","timestamp":"2019-11-29T07:48:57.879Z"}
+{"level":"info","message":"dispatched: project-40108 to  by entity-266 user-1106","timestamp":"2019-11-29T07:49:20.375Z"}
+{"level":"info","message":"dispatched: project-40110 to  by entity-266 user-1106","timestamp":"2019-11-29T07:50:07.272Z"}
+{"level":"info","message":"dispatched: project-40111 to  by entity-266 user-1106","timestamp":"2019-11-29T07:50:35.287Z"}
+{"level":"info","message":"dispatched: project-40113 to  by entity-266 user-1106","timestamp":"2019-11-29T07:52:23.581Z"}
+{"level":"info","message":"dispatched: project-40123 to  by entity-266 user-1106","timestamp":"2019-11-29T07:52:50.612Z"}
+{"level":"info","message":"dispatched: project-40140 to  by entity-266 user-1106","timestamp":"2019-11-29T07:53:10.637Z"}
+{"level":"info","message":"dispatched: project-40141 to  by entity-266 user-1106","timestamp":"2019-11-29T07:53:52.286Z"}
+{"level":"info","message":"dispatched: project-40144 to  by entity-266 user-1106","timestamp":"2019-11-29T07:55:42.097Z"}
+{"level":"info","message":"saved: project-40149 \"Dossier d'expropriation liée aux travaux d'aménagement des routes, voiries et la reconstruction des équipements marchands dans la ville de Fianarantsoa (PADEVE)\n05 Etats des sommes\n05 PV\n01 Copie décret 2019-200\n01 Copie arrêté 19 587\n01 Copie arrêté 11 243\n01 Etat parcellaire de l'arrêté 19 587\n01 Plan annexe à l'arrêté 19 587\" by user-1106","timestamp":"2019-11-29T08:17:49.841Z"}
+{"level":"info","message":"saved: project-40150 \"L/ INTERNATIONAL FINANCE CORPORATION / Programmes de prêts en MGA aux clients du secteur privé de la Société Financière Internationale \" by user-1106","timestamp":"2019-11-29T08:34:00.752Z"}
+{"level":"info","message":"user logged in: Cabinet du Ministre undefined 1105","timestamp":"2019-11-29T08:38:29.588Z"}
+{"level":"info","message":"saved: project-40151 \"L/ MADO SARL / Approbation d'une convention de prêt entre la société MADO SARL et Monsieur Alain BONHOMME et d'un avenant à une convention de prêt entre la société MADO SARL et Monsieur Georges PARNOT \" by user-1106","timestamp":"2019-11-29T08:42:22.192Z"}
+{"level":"info","message":"saved: project-40152 \"\" by user-1106","timestamp":"2019-11-29T08:42:26.174Z"}
+{"level":"info","message":"removed project id: 40152","timestamp":"2019-11-29T08:43:09.852Z"}
+{"level":"info","message":"saved: project-40153 \"Dossier relatif aux travaux d'aménagement des routes, voiries et réseaux divers et équipements dans la ville d'Antsiranana, dans le cadre du programme PADEVE\nEtat des sommes et PV de la commission administrative d'évaluation des travaux d'aménagement des voies internes Mahatsara (5)\nES et PV de la commission administrative d'évaluation du Projet d'aménagement du Drain Soafeno (5)\n\nES et PV de la CEA duprojet aux travaux d'aménagement de la voie Transversale TP (5)\nES et PV CAE du projet d'aménagement de la route du dégagement ouest (5)\nCopie du décret déclaratif d'utilité publique n° 2019-199 du 27/02/19 (1)\nCopie de l'arrêté n° 18 429/2019/MAHTP du 04/09/19 constituant acte de cessibilité\nCopie de l'arrêté n° 11 244/2018-M2PATE-SG/DGATE/DVPT du 03/05/18 portant ouverture d'une enquête administrative de commodo et incommodo\nPlan parcellaire: Mahatsara (3)\nDrain Soafeno (6)\nDégagement ouest (9)\nTransversale TP (2)\n\n\" by user-1106","timestamp":"2019-11-29T08:49:45.395Z"}
+{"level":"info","message":"dispatched: project-40149 to  by entity-266 user-1106","timestamp":"2019-11-29T11:18:13.407Z"}
+{"level":"info","message":"edited: project-40153 by user-1106","timestamp":"2019-11-29T11:18:43.691Z"}
+{"level":"info","message":"dispatched: project-40153 to  by entity-266 user-1106","timestamp":"2019-11-29T11:18:59.913Z"}
+{"level":"info","message":"removed project id: 40153","timestamp":"2019-11-29T11:19:28.072Z"}
+{"level":"info","message":"dispatched: project-40110 to  by entity-266 user-1106","timestamp":"2019-11-29T11:31:44.818Z"}
+{"level":"info","message":"user logged in: Cabinet du Ministre undefined 1105","timestamp":"2019-11-29T11:36:19.947Z"}
+{"level":"info","message":"saved: project-40154 \"Interventions de BFM sur le MID en date du 26 novembre\" by user-1106","timestamp":"2019-11-29T11:36:52.981Z"}
+{"level":"info","message":"dispatched: project-40051 to  by entity-266 user-1106","timestamp":"2019-11-29T11:39:16.298Z"}
+{"level":"info","message":"dispatched: project-40051 to  by entity-266 user-1106","timestamp":"2019-11-29T11:39:37.428Z"}
+{"level":"info","message":"saved: project-40155 \"Commentaires hebdomadaires du MID et taux de change\" by user-1106","timestamp":"2019-11-29T12:11:22.064Z"}
+{"level":"info","message":"saved: project-40156 \"Supervision du projet d'élaboration de schémas directeurs d'assainissement de huit centres urbains secondaires de Mcar (SDAUM), A/vo du 16 au 21 décembre\" by user-1106","timestamp":"2019-11-29T12:15:46.038Z"}
+{"level":"info","message":"saved: project-40157 \"Demande de renouvellement de dispense mensuelle pour la fourniture du \"Bordereau de Suivi de Cargaison (BSC)\" au titre de l'année 2020\" by user-1106","timestamp":"2019-11-29T12:33:18.534Z"}
+{"level":"info","message":"saved: project-40158 \"Demande de collaboration et d'accès aux bases de données du SIIGFP\" by user-1106","timestamp":"2019-11-29T12:35:27.157Z"}
+{"level":"info","message":"dispatched: project-40158 to  by entity-266 user-1106","timestamp":"2019-11-29T12:36:06.092Z"}
+{"level":"info","message":"dispatched: project-40158 to  by entity-266 user-1106","timestamp":"2019-11-29T12:37:00.916Z"}
+{"level":"info","message":"saved: project-40159 \"L/DGINSTAT/Demande de prise en charge des DTI, acuisition des divers matériels, dans le cadre de la réalisation d'une EDSMD-V\" by user-1106","timestamp":"2019-11-29T12:44:07.451Z"}
+{"level":"info","message":"dispatched: project-40159 to  by entity-266 user-1106","timestamp":"2019-11-29T12:46:45.031Z"}
+{"level":"info","message":"saved: project-40160 \"Notification de la désignation du nouveau point focal du programme INTERREG V Océan Indien à Mcar\" by user-1106","timestamp":"2019-11-29T12:53:32.474Z"}
+{"level":"info","message":"edited: project-40112 by user-1106","timestamp":"2019-11-29T12:55:05.459Z"}
+{"level":"info","message":"saved: project-40161 \"Demande exceptionnelle d'aménagement de crédits au profit de l'Office des Transmissions Militaires de l'Etat (OTME)\" by user-1106","timestamp":"2019-11-29T12:55:33.175Z"}
+{"level":"info","message":"saved: project-40162 \"Demande d'ouverture de ligne pour transférer les subventions au compte 6551\" by user-1106","timestamp":"2019-11-29T12:57:41.478Z"}
+{"level":"info","message":"edited: project-40112 by user-1106","timestamp":"2019-11-29T13:01:20.076Z"}
+{"level":"info","message":"saved: project-40163 \"NAS: Demande de dérogation aux quitus matières des années 2018 et antérieures par le Ministère de la Sécurité Publique (par lettre n° 01920-MSP 2019 du 31/10/19\" by user-1106","timestamp":"2019-11-29T13:06:19.600Z"}
+{"level":"info","message":"saved: project-40164 \"\" by user-1106","timestamp":"2019-11-29T13:06:22.667Z"}
+{"level":"info","message":"removed project id: 40163","timestamp":"2019-11-29T13:07:32.922Z"}
+{"level":"info","message":"saved: project-40165 \"Demande d'autorisation d'ouverture de SIIGFP pour déblocage du compte 2472 \"véhicules terrestres\"\" by user-1106","timestamp":"2019-11-29T13:08:44.582Z"}
+{"level":"info","message":"dispatched: project-40126 to  by entity-266 user-1106","timestamp":"2019-11-29T13:10:06.427Z"}
+{"level":"info","message":"saved: project-40166 \"Demande de transfert du véhicule 0869 TBH à la Présidence de la CCFVP)\" by user-1106","timestamp":"2019-11-29T13:11:13.256Z"}
+{"level":"info","message":"edited: project-40126 by user-1106","timestamp":"2019-11-29T13:12:12.942Z"}
+{"level":"info","message":"saved: project-40167 \"Décision portant paiement des DTI d'un montant de 85298635ar au profit du SAMIFIN relatifs à l'acquisition de lots de matériels\" by user-1106","timestamp":"2019-11-29T13:20:13.273Z"}
+{"level":"info","message":"dispatched: project-40167 to  by entity-266 user-1106","timestamp":"2019-11-29T13:24:32.213Z"}
+{"level":"info","message":"user logged in: Secretariat MEF undefined 1106","timestamp":"2019-11-29T13:35:16.536Z"}
+{"level":"info","message":"dispatched: project-40051 to  by entity-266 user-1106","timestamp":"2019-12-02T05:51:06.973Z"}
+{"level":"info","message":"edited: project-40117 by user-1106","timestamp":"2019-12-02T06:08:27.228Z"}
+{"level":"info","message":"dispatched: project-40133 to  by entity-266 user-1106","timestamp":"2019-12-02T06:23:21.159Z"}
+{"level":"info","message":"removed project id: 40164","timestamp":"2019-12-02T06:24:01.608Z"}
+{"level":"info","message":"edited: project-40133 by user-1106","timestamp":"2019-12-02T06:25:42.860Z"}
+{"level":"info","message":"dispatched: project-40085 to  by entity-266 user-1106","timestamp":"2019-12-02T06:30:34.740Z"}
+{"level":"info","message":"edited: project-40085 by user-1106","timestamp":"2019-12-02T06:30:54.979Z"}
+{"level":"info","message":"saved: project-40180 \"PV de réunion du Comité Stratégique de Pilotage de la Stratégie Nationale de Lutte contre la Corruption\" by user-1106","timestamp":"2019-12-02T06:31:08.018Z"}
+{"level":"info","message":"dispatched: project-40180 to  by entity-266 user-1106","timestamp":"2019-12-02T06:31:54.147Z"}
+{"level":"info","message":"dispatched: project-40180 to  by entity-266 user-1106","timestamp":"2019-12-02T06:32:10.970Z"}
+{"level":"info","message":"dispatched: project-40124 to  by entity-266 user-1106","timestamp":"2019-12-02T06:32:25.936Z"}
+{"level":"info","message":"edited: project-40124 by user-1106","timestamp":"2019-12-02T06:34:57.333Z"}
+{"level":"info","message":"dispatched: project-40082 to  by entity-266 user-1106","timestamp":"2019-12-02T06:37:11.592Z"}
+{"level":"info","message":"dispatched: project-40043 to  by entity-266 user-1106","timestamp":"2019-12-02T06:37:56.207Z"}
+{"level":"info","message":"dispatched: project-40047 to  by entity-266 user-1106","timestamp":"2019-12-02T06:38:27.003Z"}
+{"level":"info","message":"dispatched: project-40048 to  by entity-266 user-1106","timestamp":"2019-12-02T06:39:12.409Z"}
+{"level":"info","message":"dispatched: project-40049 to  by entity-266 user-1106","timestamp":"2019-12-02T06:39:47.774Z"}
+{"level":"info","message":"dispatched: project-40050 to  by entity-266 user-1106","timestamp":"2019-12-02T06:40:10.875Z"}
+{"level":"info","message":"edited: project-40082 by user-1106","timestamp":"2019-12-02T06:41:27.941Z"}
+{"level":"info","message":"dispatched: project-40052 to  by entity-266 user-1106","timestamp":"2019-12-02T06:41:32.698Z"}
+{"level":"info","message":"dispatched: project-40053 to  by entity-266 user-1106","timestamp":"2019-12-02T06:42:31.662Z"}
+{"level":"info","message":"dispatched: project-40116 to  by entity-266 user-1106","timestamp":"2019-12-02T06:43:57.240Z"}
+{"level":"info","message":"dispatched: project-40054 to  by entity-266 user-1106","timestamp":"2019-12-02T06:44:26.209Z"}
+{"level":"info","message":"dispatched: project-40055 to  by entity-266 user-1106","timestamp":"2019-12-02T06:44:58.097Z"}
+{"level":"info","message":"edited: project-40116 by user-1106","timestamp":"2019-12-02T06:46:35.732Z"}
+{"level":"info","message":"saved: project-40181 \"Projet d'arrêté interministériel abrogeant l'arrêté 30 904/2017 fixant les modalités de paiement des caisses écoles\" by user-1106","timestamp":"2019-12-02T06:57:11.309Z"}
+{"level":"info","message":"removed project id: 40181","timestamp":"2019-12-02T07:13:53.864Z"}
+{"level":"info","message":"dispatched: project-40056 to 267 by entity-266 user-1106","timestamp":"2019-12-02T07:14:22.987Z"}
+{"level":"info","message":"dispatched: project-40057 to  by entity-266 user-1106","timestamp":"2019-12-02T07:15:06.333Z"}
+{"level":"info","message":"dispatched: project-40058 to  by entity-266 user-1106","timestamp":"2019-12-02T07:15:42.325Z"}
+{"level":"info","message":"dispatched: project-40058 to  by entity-266 user-1106","timestamp":"2019-12-02T07:15:58.251Z"}
+{"level":"info","message":"dispatched: project-40117 to  by entity-266 user-1106","timestamp":"2019-12-02T07:29:15.771Z"}
+{"level":"info","message":"dispatched: project-40126 to  by entity-266 user-1106","timestamp":"2019-12-02T07:32:41.029Z"}
+{"level":"info","message":"dispatched: project-40112 to  by entity-266 user-1106","timestamp":"2019-12-02T07:33:47.606Z"}
+{"level":"info","message":"dispatched: project-40085 to  by entity-266 user-1106","timestamp":"2019-12-02T07:40:26.890Z"}
+{"level":"info","message":"dispatched: project-40059 to  by entity-266 user-1106","timestamp":"2019-12-02T07:42:03.138Z"}
+{"level":"info","message":"dispatched: project-40059 to  by entity-266 user-1106","timestamp":"2019-12-02T07:42:21.110Z"}
+{"level":"info","message":"dispatched: project-40080 to  by entity-266 user-1106","timestamp":"2019-12-02T07:43:04.442Z"}
+{"level":"info","message":"dispatched: project-40064 to  by entity-266 user-1106","timestamp":"2019-12-02T07:44:49.042Z"}
+{"level":"info","message":"dispatched: project-40181 to  by entity-266 user-1106","timestamp":"2019-12-02T08:37:16.638Z"}
+{"level":"info","message":"dispatched: project-40060 to  by entity-266 user-1106","timestamp":"2019-12-02T08:54:28.341Z"}
+{"level":"info","message":"status update: project-40060 by entity-266","timestamp":"2019-12-02T08:54:33.347Z"}
+{"level":"info","message":"dispatched: project-40154 to  by entity-266 user-1106","timestamp":"2019-12-03T06:06:49.344Z"}
+{"level":"info","message":"dispatched: project-40155 to  by entity-266 user-1106","timestamp":"2019-12-03T06:07:06.324Z"}
+{"level":"info","message":"dispatched: project-40156 to  by entity-266 user-1106","timestamp":"2019-12-03T06:07:40.803Z"}
+{"level":"info","message":"dispatched: project-40157 to  by entity-266 user-1106","timestamp":"2019-12-03T06:08:04.169Z"}
+{"level":"info","message":"dispatched: project-40160 to  by entity-266 user-1106","timestamp":"2019-12-03T06:09:14.611Z"}
+{"level":"info","message":"dispatched: project-40161 to  by entity-266 user-1106","timestamp":"2019-12-03T06:09:38.133Z"}
+{"level":"info","message":"dispatched: project-40162 to  by entity-266 user-1106","timestamp":"2019-12-03T06:09:58.052Z"}
+{"level":"info","message":"dispatched: project-40165 to  by entity-266 user-1106","timestamp":"2019-12-03T06:10:15.296Z"}
+{"level":"info","message":"dispatched: project-40166 to  by entity-266 user-1106","timestamp":"2019-12-03T06:10:54.591Z"}

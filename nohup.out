@@ -1,0 +1,487 @@
+
+> excourriel@0.0.0 start /home/courriel/excourriel
+> node ./bin/www
+
+Warning: connect.session() MemoryStore is not
+designed for a production environment, as it will leak
+memory, and will not scale past a single process.
+socket2 listening on 5200
+socket listening on 4200
+[0mGET /public [36m301 [0m3.988 ms - 179[0m
+404
+[0mGET /public/ [32m200 [0m8.610 ms - 842[0m
+[0mGET /assets/iconfont/material-icons.css [36m304 [0m3.885 ms - -[0m
+[0mGET /runtime.js [36m304 [0m9.500 ms - -[0m
+[0mGET /styles.js [36m304 [0m9.178 ms - -[0m
+[0mGET /scripts.js [36m304 [0m7.817 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m3.128 ms - -[0m
+[0mGET /vendor.js [36m304 [0m3.485 ms - -[0m
+[0mGET /main.js [36m304 [0m2.443 ms - -[0m
+undefined
+[0mPOST /api/users/user [32m200 [0m18.362 ms - 3[0m
+[0mGET /assets/img/logo.png [36m304 [0m1.828 ms - -[0m
+[0mGET /assets/iconfont/MaterialIcons-Regular.woff2 [36m304 [0m1.882 ms - -[0m
+[0mGET /favicon.ico [36m304 [0m1.864 ms - -[0m
+[0mGET /favicon.ico [36m304 [0m1.748 ms - -[0m
+[0mGET / [36m304 [0m2.378 ms - -[0m
+[0mGET /assets/iconfont/material-icons.css [36m304 [0m1.916 ms - -[0m
+[0mGET /runtime.js [36m304 [0m9.109 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m7.084 ms - -[0m
+[0mGET /styles.js [36m304 [0m3.979 ms - -[0m
+[0mGET /scripts.js [36m304 [0m4.003 ms - -[0m
+[0mGET /vendor.js [36m304 [0m4.061 ms - -[0m
+[0mGET /main.js [36m304 [0m4.439 ms - -[0m
+[0mGET /assets/images/user.png [36m304 [0m1.683 ms - -[0m
+[0mGET /assets/iconfont/MaterialIcons-Regular.woff2 [36m304 [0m1.804 ms - -[0m
+[0mGET /favicon.ico [36m304 [0m1.634 ms - -[0m
+logging user dgdgfd
+[0mGET /public [36m301 [0m4.151 ms - 179[0m
+404
+[0mGET /public/ [36m304 [0m3.518 ms - -[0m
+[0mPOST /api/users/user [0m- [0m- ms - -[0m
+[0mGET /assets/iconfont/material-icons.css [36m304 [0m1.701 ms - -[0m
+[0mGET /runtime.js [36m304 [0m1.660 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m3.656 ms - -[0m
+[0mGET /styles.js [36m304 [0m3.942 ms - -[0m
+[0mGET /scripts.js [36m304 [0m2.386 ms - -[0m
+[0mGET /vendor.js [36m304 [0m2.437 ms - -[0m
+[0mGET /main.js [36m304 [0m0.718 ms - -[0m
+undefined
+[0mPOST /api/users/user [32m200 [0m2.106 ms - 3[0m
+[0mGET /assets/img/logo.png [36m304 [0m4.239 ms - -[0m
+[0mGET /assets/iconfont/MaterialIcons-Regular.woff2 [36m304 [0m1.945 ms - -[0m
+[0mGET /favicon.ico [36m304 [0m1.572 ms - -[0m
+[0mGET /favicon.ico [36m304 [0m1.560 ms - -[0m
+[0mGET /api/projects/latest/266 [36m304 [0m70499.144 ms - -[0m
+{"level":"error","message":"user wrong credentials: dgdgfd fghfhgfhgf ","timestamp":"2022-05-03T07:20:36.666Z"}
+[0mGET /api/flows/latest/266 [36m304 [0m70724.561 ms - -[0m
+[0mGET /api/projects/all/266 [36m304 [0m912.264 ms - -[0m
+[0mGET /api/flows/all/266 [36m304 [0m1946.898 ms - -[0m
+./start.sh : ligne 1 : 26515 Processus arrêté      npm start
+
+> excourriel@0.0.0 start
+> node ./bin/www
+
+Warning: connect.session() MemoryStore is not
+designed for a production environment, as it will leak
+memory, and will not scale past a single process.
+socket2 listening on 5200
+socket listening on 4200
+[0mGET / [32m200 [0m6.642 ms - 842[0m
+[0mGET /runtime.js [36m304 [0m4.991 ms - -[0m
+[0mGET /vendor.js [36m304 [0m0.791 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m2.192 ms - -[0m
+[0mGET /styles.js [36m304 [0m1.978 ms - -[0m
+[0mGET /scripts.js [36m304 [0m1.959 ms - -[0m
+[0mGET /assets/iconfont/material-icons.css [36m304 [0m1.745 ms - -[0m
+[0mGET /main.js [36m304 [0m1.806 ms - -[0m
+undefined
+[0mPOST /api/users/user [32m200 [0m19.342 ms - 3[0m
+[0mGET /favicon.ico [36m304 [0m1.865 ms - -[0m
+[0mGET /favicon.ico [36m304 [0m1.204 ms - -[0m
+[0mGET /assets/iconfont/MaterialIcons-Regular.woff2 [36m304 [0m1.977 ms - -[0m
+[0mGET /assets/img/logo.png [36m304 [0m1.243 ms - -[0m
+[0mGET /api/files/project/72637 [32m200 [0m60575.461 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m39721.022 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m39726.510 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m39732.260 ms - 2[0m
+[0mGET /api/files/thread/78909 [32m200 [0m42727.536 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m8.649 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m39769.969 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m14.652 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m12.543 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m16.959 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m10.611 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m5.111 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m7.420 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m10.595 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m11.994 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m19.783 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m14.372 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m10.144 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m56.356 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m12.528 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m10.776 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m12.206 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m7.148 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m8.525 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m11.204 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m8.877 ms - 2[0m
+[0mGET /api/files/project/72637 [32m200 [0m12.171 ms - 2[0m
+[0mGET /api/files/project/72709 [32m200 [0m13.998 ms - 2[0m
+[0mGET /api/files/project/72637 [36m304 [0m14.171 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m8.617 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m8.541 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m6.898 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m7.079 ms - -[0m
+[0mGET /api/flows/project/72637 [32m200 [0m66.145 ms - 2[0m
+[0mGET /api/files/project/72709 [36m304 [0m8.005 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m6.565 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m6.910 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m9.592 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m56.377 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m12.703 ms - -[0m
+[0mGET /api/flows/project/72709 [32m200 [0m62.829 ms - 2[0m
+[0mGET /api/files/project/72709 [36m304 [0m7.985 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m6.145 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m6.698 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m51.768 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m43.193 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m9.563 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m6.064 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m5.925 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m6.300 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m45.249 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m44.400 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m7.699 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m6.263 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m8.657 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m6.939 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m44.767 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m51.658 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m9.087 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m5.718 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m7.829 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m7.130 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m45.465 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m12.605 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m61.944 ms - -[0m
+[0mGET /api/files/project/72709 [36m304 [0m15.107 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m48.458 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m43.569 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m43.289 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m41.492 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m42.105 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m45.682 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m48.794 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m44.821 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m10.989 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.398 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.698 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m8.485 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m45.826 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m48.997 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m8.102 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m5.933 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m9.176 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.365 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m42.714 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m47.440 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m11.743 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.385 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.579 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m44.211 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m47.101 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.090 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.028 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m6.328 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m6.594 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m48.711 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m6.882 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m56.103 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.398 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m8.330 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m5.997 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m49.437 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m8.358 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m51.507 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m6.064 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m18.770 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m43.906 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.391 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m13.893 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m71.369 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.586 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m6.358 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m53.427 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m6.655 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m40.889 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m43.380 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m41.361 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.858 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m41.360 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m43.800 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m42.823 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m44.449 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m41.677 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m46.867 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m41.852 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m44.906 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m42.591 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m43.957 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m43.453 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m42.445 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m42.621 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m47.068 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m47.154 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.755 ms - -[0m
+[0mGET /api/flows/project/72709 [36m304 [0m45.489 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.459 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.999 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.298 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.752 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m42.172 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m44.206 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.616 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.344 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m43.179 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.447 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.136 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m40.685 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.793 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.777 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.487 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m43.434 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m44.842 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.982 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.843 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m42.272 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.621 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m42.984 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m42.710 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m46.439 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m42.501 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m8.240 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m8.836 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m8.052 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.190 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.162 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.341 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m8.125 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.461 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.360 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m44.364 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m9.338 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.427 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.863 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.553 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m50.315 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m15.207 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.061 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.237 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.409 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m59.811 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.202 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m6.445 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m6.158 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m6.239 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m7.049 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m6.621 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m71.081 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m6.903 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m17.043 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m43.934 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m18.627 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m11.205 ms - -[0m
+[0mGET /api/files/project/72637 [36m304 [0m6.559 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m51.266 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m43.814 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m45.495 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m48.151 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m40.200 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m40.181 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m43.693 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.032 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m52.138 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.358 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m43.145 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m49.921 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m42.214 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m44.083 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m42.287 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m41.815 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m45.278 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m42.373 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m39.535 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m42.234 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m40.274 ms - -[0m
+[0mGET /api/flows/project/72637 [36m304 [0m39.822 ms - -[0m
+[Object: null prototype] {
+  receivers: '266',
+  receiver: '',
+  sender_entity_id: '265',
+  project_id: '72637',
+  user_id: '1105',
+  content: '',
+  thread_id: { type: 2010, dir: 3003 }
+}
+dispatching
+{"level":"info","message":"dispatched: project-72637 to 266 by entity-265 user-1105","timestamp":"2022-05-04T11:49:01.835Z"}
+[]
+[0mPOST /api/threads [32m200 [0m29.577 ms - 12[0m
+[0mGET /api/flows/all/265 [32m200 [0m1052.419 ms - 7369473[0m
+[0mGET /api/flows/all/265 [36m304 [0m3267.605 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m1203.047 ms - -[0m
+[0mGET /api/flows/all/266 [36m304 [0m3101.620 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m1384.390 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m804.088 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m756.528 ms - -[0m
+[0mGET /api/flows/all/266 [36m304 [0m2236.208 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m967.151 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m813.046 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m798.384 ms - -[0m
+[0mGET /api/flows/all/266 [32m200 [0m2783.757 ms - 19624131[0m
+[0mGET /api/flows/all/265 [36m304 [0m784.118 ms - -[0m
+[0mGET /api/flows/all/266 [32m200 [0m3152.819 ms - 19624131[0m
+[0mGET /api/flows/all/265 [36m304 [0m723.819 ms - -[0m
+[0mGET /api/flows/all/266 [32m200 [0m3475.951 ms - 19624131[0m
+[0mGET /api/flows/all/266 [32m200 [0m4800.557 ms - 19624131[0m
+[0mGET /api/flows/all/265 [36m304 [0m769.859 ms - -[0m
+[0mGET /api/flows/all/266 [32m200 [0m6013.809 ms - 19624131[0m
+[0mGET /api/flows/all/265 [36m304 [0m733.761 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m703.688 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m757.766 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m742.614 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m724.180 ms - -[0m
+[0mGET /api/files/project/72633 [32m200 [0m12.936 ms - 2[0m
+[0mGET /api/files/project/72633 [36m304 [0m9.238 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m9.045 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.727 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m8.969 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.786 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.331 ms - -[0m
+[0mGET /api/flows/project/72633 [32m200 [0m58.790 ms - 2[0m
+[0mGET /api/files/project/72633 [36m304 [0m8.552 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.962 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.918 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.623 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m49.955 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.025 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.075 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m8.824 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m47.023 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.408 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.799 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.959 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.633 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m43.631 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.183 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m8.108 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.479 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m46.060 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m8.726 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.238 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m8.102 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.472 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m45.880 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m8.817 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.116 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.016 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.534 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m44.975 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m42.296 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m43.970 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m43.832 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m44.506 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m44.867 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m44.515 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m42.348 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m40.269 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m41.687 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m42.037 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m40.538 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m40.453 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m41.737 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m40.736 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m62.201 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m42.042 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m42.497 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m41.310 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m40.344 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m41.614 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m40.930 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m8.097 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m8.834 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.193 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.200 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.227 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.605 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.903 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.241 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.140 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m44.110 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.870 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.061 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.282 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.416 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m43.246 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.644 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.414 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.832 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m8.643 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m44.381 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.659 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.387 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.737 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m46.790 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m31.750 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m10.889 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m5.767 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m53.531 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.451 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.513 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.625 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m6.776 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m45.232 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m7.266 ms - -[0m
+[0mGET /api/files/project/72633 [36m304 [0m8.168 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m44.308 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m44.435 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m46.463 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m40.825 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m41.886 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m41.359 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m43.139 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m43.414 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m42.247 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m44.959 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m43.654 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m43.215 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m42.166 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m44.169 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m44.042 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m41.285 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m42.216 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m41.527 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m43.459 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m41.067 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m44.417 ms - -[0m
+[0mGET /api/flows/project/72633 [36m304 [0m40.980 ms - -[0m
+[Object: null prototype] {
+  receivers: '266',
+  receiver: '',
+  sender_entity_id: '265',
+  project_id: '72633',
+  user_id: '1105',
+  content: '',
+  thread_id: { type: 2010, dir: 3003 }
+}
+dispatching
+{"level":"info","message":"dispatched: project-72633 to 266 by entity-265 user-1105","timestamp":"2022-05-04T11:49:39.096Z"}
+[]
+[0mPOST /api/threads [32m200 [0m38.225 ms - 12[0m
+[0mGET /api/flows/all/265 [32m200 [0m1081.000 ms - 7370277[0m
+[0mGET /api/flows/all/265 [36m304 [0m3298.267 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m1140.566 ms - -[0m
+[0mGET /api/flows/all/266 [36m304 [0m3523.218 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m1506.910 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m696.039 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m669.422 ms - -[0m
+[0mGET /api/flows/all/266 [36m304 [0m2050.410 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m920.151 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m779.863 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m740.522 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m755.563 ms - -[0m
+[0mGET /api/flows/all/266 [32m200 [0m3166.677 ms - 19624935[0m
+[0mGET /api/flows/all/266 [32m200 [0m2798.649 ms - 19624935[0m
+[0mGET /api/flows/all/265 [36m304 [0m672.948 ms - -[0m
+[0mGET /api/flows/all/266 [32m200 [0m3508.722 ms - 19624935[0m
+[0mGET /api/flows/all/265 [36m304 [0m675.656 ms - -[0m
+[0mGET /api/flows/all/266 [32m200 [0m6041.976 ms - 19624935[0m
+[0mGET /api/flows/all/266 [32m200 [0m4764.744 ms - 19624935[0m
+[0mGET /api/flows/all/265 [36m304 [0m764.664 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m763.302 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m720.288 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m797.460 ms - -[0m
+[0mGET /api/flows/all/265 [36m304 [0m736.615 ms - -[0m
+start.sh: line 1: 56476 Killed                  npm start

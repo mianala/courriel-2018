@@ -1,0 +1,51 @@
+doctype html
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        link(rel='stylesheet', href='/stylesheets/be.css')
+        script(src="/javascripts/moment-with-locales.min.js")
+        script(src="/javascripts/be_front.js")
+    body
+        .static-header
+            .image.mfb
+                img(src='/images/mfb.png', alt='')
+            div(style='text-align: center;')
+                | REPOBLIKAN´I MADAGASIKARA
+                br
+                i Fitiavana-Tanindrazana-Fandrosoana
+                br
+                |     ---------
+                br
+            .image.dgb
+                img(src='/images/dgb-logo.jpg', alt='')
+        header
+            .sender(style='font-weight: bold;') !{header}
+            .receiver
+                | Antananarivo, #{date}
+                br
+                |     #{sender}
+                br
+                |     à
+                br
+                |     #{receiver}
+                br
+        .id
+            | N° #{numero}
+        h2.title
+            | BORDEREAU D'ENVOI
+        table
+            tr
+                th DESIGNATION
+                th NOMBRE
+                th OBSERVATIONS
+            tr
+                td.first
+                    div.table-content
+                        each designation in ds
+                            div= designation
+                td.second
+                    div.table-content
+                        each c in cs
+                            div= c
+                td.third
+                    div.table-content !{observation}
